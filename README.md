@@ -1,7 +1,7 @@
 ﻿# CineGroove
 
-    Movie and music app recommender 
+    Movie app recommender 
 
-* CineGroove is a personal movie and music recommender portfolio project
+* CineGroove is a personal movie recommender portfolio project
 
 ## Features
