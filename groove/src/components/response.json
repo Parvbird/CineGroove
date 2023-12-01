@@ -1,0 +1,438 @@
+{
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/vcFW09U4834DyFOeRZpsx9x1D3S.jpg",
+        "id": 57243,
+        "name": "Doctor Who",
+        "original_language": "en",
+        "original_name": "Doctor Who",
+        "overview": "The Doctor is a Time Lord: a 900 year old alien with 2 hearts, part of a gifted civilization who mastered time travel. The Doctor saves planets for a living—more of a hobby actually, and the Doctor's very, very good at it.",
+        "poster_path": "/8n8bF1hPICIYC4byBj0pqNn9vXs.jpg",
+        "media_type": "tv",
+        "genre_ids": [
+          10759,
+          18,
+          10765
+        ],
+        "popularity": 877.437,
+        "first_air_date": "2005-03-26",
+        "vote_average": 7.461,
+        "vote_count": 2695,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/zIYROrkHJPYB3VTiW1L9QVgaQO.jpg",
+        "id": 897087,
+        "title": "Freelance",
+        "original_language": "en",
+        "original_title": "Freelance",
+        "overview": "An ex-special forces operative takes a job to provide security for a journalist as she interviews a dictator, but a military coup breaks out in the middle of the interview, they are forced to escape into the jungle where they must survive.",
+        "poster_path": "/7Bd4EUOqQDKZXA6Od5gkfzRNb0.jpg",
+        "media_type": "movie",
+        "genre_ids": [
+          28,
+          35
+        ],
+        "popularity": 53.466,
+        "release_date": "2023-10-05",
+        "video": false,
+        "vote_average": 6.643,
+        "vote_count": 21
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/fm6KqXpk3M2HVveHwCrBSSBaO0V.jpg",
+        "id": 872585,
+        "title": "Oppenheimer",
+        "original_language": "en",
+        "original_title": "Oppenheimer",
+        "overview": "The story of J. Robert Oppenheimer's role in the development of the atomic bomb during World War II.",
+        "poster_path": "/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg",
+        "media_type": "movie",
+        "genre_ids": [
+          18,
+          36
+        ],
+        "popularity": 1672.982,
+        "release_date": "2023-07-19",
+        "video": false,
+        "vote_average": 8.163,
+        "vote_count": 4984
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/oT81JufYbkP9BkFZm32VwvXRBOc.jpg",
+        "id": 239770,
+        "name": "Doctor Who",
+        "original_language": "en",
+        "original_name": "Doctor Who",
+        "overview": "The Doctor and friends travel from the dawn of human history to distant alien worlds. And everywhere they go, they find adventure, terror, fun, chases, joy and monsters.",
+        "poster_path": "/2I8aMfUvgRKQvEpBIQVKMbXgMsi.jpg",
+        "media_type": "tv",
+        "genre_ids": [
+          10759,
+          18,
+          10765
+        ],
+        "popularity": 28.93,
+        "first_air_date": "",
+        "vote_average": 8.6,
+        "vote_count": 15,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/it34RMnArwzl38hoAtgXfCkkqpX.jpg",
+        "id": 204999,
+        "name": "Faraway Downs",
+        "original_language": "en",
+        "original_name": "Faraway Downs",
+        "overview": "The story of an English aristocrat, Lady Sarah Ashley, who inherits a large cattle ranch in Australia after her husband dies. When Australian cattle barons plot to take her land, she joins forces with a cattle drover to protect her ranch.",
+        "poster_path": "/pdD1STyfzRMo9xp1Nvt957K5sA9.jpg",
+        "media_type": "tv",
+        "genre_ids": [
+          10759,
+          18
+        ],
+        "popularity": 108.045,
+        "first_air_date": "2023-11-26",
+        "vote_average": 6.714,
+        "vote_count": 7,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/f1AQhx6ZfGhPZFTVKgxG91PhEYc.jpg",
+        "id": 753342,
+        "title": "Napoleon",
+        "original_language": "en",
+        "original_title": "Napoleon",
+        "overview": "An epic that details the checkered rise and fall of French Emperor Napoleon Bonaparte and his relentless journey to power through the prism of his addictive, volatile relationship with his wife, Josephine.",
+        "poster_path": "/jE5o7y9K6pZtWNNMEw3IdpHuncR.jpg",
+        "media_type": "movie",
+        "genre_ids": [
+          18,
+          36,
+          10752
+        ],
+        "popularity": 670.48,
+        "release_date": "2023-11-22",
+        "video": false,
+        "vote_average": 6.443,
+        "vote_count": 333
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/v1T0As9ehgDEq5gJxhBpjfDMBN5.jpg",
+        "id": 230131,
+        "name": "South Sea Tomb",
+        "original_language": "zh",
+        "original_name": "南海归墟",
+        "overview": "Hu Bayi and Fatty Wang had planned to go abroad with Shirley Yang. However, they were entrusted by Professor Chen to travel to the Coral Spiral with Mr. Ming to search for the Qin Emperor's Bone Mirror. They befriended Ruan Hei, Gucai, and Duoling on Coral Temple Island. Together, they set sail. One night, they were sucked into the underwater cave of Guixu. In despair, Hu Bayi and Shirley Yang decided to risk their lives using the Sun-shooting wooden mechanism to lead everyone out of Guixu.",
+        "poster_path": "/tfI2vrPXhpcwhv0CdpNeRKQEOCm.jpg",
+        "media_type": "tv",
+        "genre_ids": [
+          10759,
+          18
+        ],
+        "popularity": 1.4,
+        "first_air_date": "2023-11-27",
+        "vote_average": 9,
+        "vote_count": 1,
+        "origin_country": [
+          "CN"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/9PqD3wSIjntyJDBzMNuxuKHwpUD.jpg",
+        "id": 1075794,
+        "title": "Leo",
+        "original_language": "en",
+        "original_title": "Leo",
+        "overview": "Rylan McFadden is awesome",
+        "poster_path": "/pD6sL4vntUOXHmuvJPPZAgvyfd9.jpg",
+        "media_type": "movie",
+        "genre_ids": [
+          16,
+          35,
+          10751
+        ],
+        "popularity": 1267.179,
+        "release_date": "2023-11-17",
+        "video": false,
+        "vote_average": 7.943,
+        "vote_count": 237
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/57fhbxl9is7W7ur5v6UuvlNsoSg.jpg",
+        "id": 840430,
+        "title": "The Holdovers",
+        "original_language": "en",
+        "original_title": "The Holdovers",
+        "overview": "A curmudgeonly instructor at a New England prep school is forced to remain on campus during Christmas break to babysit the handful of students with nowhere to go. Eventually, he forms an unlikely bond with one of them — a damaged, brainy troublemaker — and with the school’s head cook, who has just lost a son in Vietnam.",
+        "poster_path": "/w4xVDkQYn603vfBtdTK0ZZwoaRc.jpg",
+        "media_type": "movie",
+        "genre_ids": [
+          35,
+          18
+        ],
+        "popularity": 49.423,
+        "release_date": "2023-10-27",
+        "video": false,
+        "vote_average": 8.3,
+        "vote_count": 26
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/4kmNLwmVeT3xMciSRefE6SCi2hX.jpg",
+        "id": 1027073,
+        "title": "In the Land of Saints and Sinners",
+        "original_language": "en",
+        "original_title": "In the Land of Saints and Sinners",
+        "overview": "In a remote Irish village, a damaged Finbar is forced to fight for redemption after a lifetime of sins, but what price is he willing to pay? In the land of saints and sinners, some sins can't be buried.",
+        "poster_path": "/443c0xNTLackGkFOKfbPClKMpIk.jpg",
+        "media_type": "movie",
+        "genre_ids": [
+          80,
+          18,
+          53
+        ],
+        "popularity": 13.818,
+        "release_date": "2023-10-06",
+        "video": false,
+        "vote_average": 7.4,
+        "vote_count": 5
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/t5zCBSB5xMDKcDqe91qahCOUYVV.jpg",
+        "id": 507089,
+        "title": "Five Nights at Freddy's",
+        "original_language": "en",
+        "original_title": "Five Nights at Freddy's",
+        "overview": "Recently fired and desperate for work, a troubled young man named Mike agrees to take a position as a night security guard at an abandoned theme restaurant: Freddy Fazbear's Pizzeria. But he soon discovers that nothing at Freddy's is what it seems.",
+        "poster_path": "/j9mH1pr3IahtraTWxVEMANmPSGR.jpg",
+        "media_type": "movie",
+        "genre_ids": [
+          27,
+          9648
+        ],
+        "popularity": 1077.066,
+        "release_date": "2023-10-25",
+        "video": false,
+        "vote_average": 7.864,
+        "vote_count": 2564
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/5a4JdoFwll5DRtKMe7JLuGQ9yJm.jpg",
+        "id": 695721,
+        "title": "The Hunger Games: The Ballad of Songbirds & Snakes",
+        "original_language": "en",
+        "original_title": "The Hunger Games: The Ballad of Songbirds & Snakes",
+        "overview": "64 years before he becomes the tyrannical president of Panem, Coriolanus Snow sees a chance for a change in fortunes when he mentors Lucy Gray Baird, the female tribute from District 12.",
+        "poster_path": "/mBaXZ95R2OxueZhvQbcEWy2DqyO.jpg",
+        "media_type": "movie",
+        "genre_ids": [
+          28,
+          12,
+          878
+        ],
+        "popularity": 553.155,
+        "release_date": "2023-11-15",
+        "video": false,
+        "vote_average": 7.297,
+        "vote_count": 454
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/ehumsuIBbgAe1hg343oszCLrAfI.jpg",
+        "id": 1022796,
+        "title": "Wish",
+        "original_language": "en",
+        "original_title": "Wish",
+        "overview": "Asha, a sharp-witted idealist, makes a wish so powerful that it is answered by a cosmic force – a little ball of boundless energy called Star. Together, Asha and Star confront a most formidable foe - the ruler of Rosas, King Magnifico - to save her community and prove that when the will of one courageous human connects with the magic of the stars, wondrous things can happen.",
+        "poster_path": "/AcoVfiv1rrWOmAdpnAMnM56ki19.jpg",
+        "media_type": "movie",
+        "genre_ids": [
+          16,
+          10751,
+          14,
+          12
+        ],
+        "popularity": 408.422,
+        "release_date": "2023-11-13",
+        "video": false,
+        "vote_average": 6.8,
+        "vote_count": 52
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/wEwE7WtkoQSW7ZmlRI8fRz3C0LQ.jpg",
+        "id": 1044302,
+        "title": "Last Call for Istanbul",
+        "original_language": "tr",
+        "original_title": "İstanbul İçin Son Çağrı",
+        "overview": "A chance meeting at the airport leads two married people to an unforgettable night full of excitement, desire, and temptation in New York City.",
+        "poster_path": "/8tnCuXBvz4efWDg4J2VkLnu5Ymd.jpg",
+        "media_type": "movie",
+        "genre_ids": [
+          10749,
+          18
+        ],
+        "popularity": 130.998,
+        "release_date": "2023-11-24",
+        "video": false,
+        "vote_average": 6.742,
+        "vote_count": 31
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/kx3xEq2BKFmsVzCPn3wSRMeIvJo.jpg",
+        "id": 938030,
+        "title": "Elf Me",
+        "original_language": "it",
+        "original_title": "Elf Me",
+        "overview": "Trip is an unconventional elf. As Santa’s helper, he seems to succeed only in building bizarre weapons rather than toys. Fate will lead him to meet Elia, a shy and unconventional boy pursued by a gang of bullies. The two will help each other and together discover the value of friendship.",
+        "poster_path": "/to0HRDQTk7ZceEjehm6TS9dNHqf.jpg",
+        "media_type": "movie",
+        "genre_ids": [
+          10751,
+          35,
+          14,
+          12
+        ],
+        "popularity": 102.935,
+        "release_date": "2023-11-24",
+        "video": false,
+        "vote_average": 5.579,
+        "vote_count": 19
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/kjQBrc00fB2RjHZB3PGR4w9ibpz.jpg",
+        "id": 670292,
+        "title": "The Creator",
+        "original_language": "en",
+        "original_title": "The Creator",
+        "overview": "Amid a future war between the human race and the forces of artificial intelligence, a hardened ex-special forces agent grieving the disappearance of his wife, is recruited to hunt down and kill the Creator, the elusive architect of advanced AI who has developed a mysterious weapon with the power to end the war—and mankind itself.",
+        "poster_path": "/vBZ0qvaRxqEhZwl6LWmruJqWE8Z.jpg",
+        "media_type": "movie",
+        "genre_ids": [
+          878,
+          28,
+          53
+        ],
+        "popularity": 1335.428,
+        "release_date": "2023-09-27",
+        "video": false,
+        "vote_average": 7.153,
+        "vote_count": 1184
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/xgGGinKRL8xeRkaAR9RMbtyk60y.jpg",
+        "id": 901362,
+        "title": "Trolls Band Together",
+        "original_language": "en",
+        "original_title": "Trolls Band Together",
+        "overview": "Rylan McFadden is awesome",
+        "poster_path": "/qV4fdXXUm5xNlEJ2jw7af3XxuQB.jpg",
+        "media_type": "movie",
+        "genre_ids": [
+          16,
+          10751,
+          10402,
+          14,
+          35
+        ],
+        "popularity": 1839.78,
+        "release_date": "2023-10-12",
+        "video": false,
+        "vote_average": 7.215,
+        "vote_count": 195
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/rqbCbjB19amtOtFQbb3K2lgm2zv.jpg",
+        "id": 1429,
+        "name": "Attack on Titan",
+        "original_language": "ja",
+        "original_name": "進撃の巨人",
+        "overview": "Several hundred years ago, humans were nearly exterminated by Titans. Titans are typically several stories tall, seem to have no intelligence, devour human beings and, worst of all, seem to do it for the pleasure rather than as a food source. A small percentage of humanity survived by walling themselves in a city protected by extremely high walls, even taller than the biggest Titans. Flash forward to the present and the city has not seen a Titan in over 100 years. Teenage boy Eren and his foster sister Mikasa witness something horrific as the city walls are destroyed by a Colossal Titan that appears out of thin air. As the smaller Titans flood the city, the two kids watch in horror as their mother is eaten alive. Eren vows that he will murder every single Titan and take revenge for all of mankind.",
+        "poster_path": "/hTP1DtLGFamjfu8WqjnuQdP1n4i.jpg",
+        "media_type": "tv",
+        "genre_ids": [
+          16,
+          10765,
+          10759
+        ],
+        "popularity": 249.771,
+        "first_air_date": "2013-04-07",
+        "vote_average": 8.668,
+        "vote_count": 5711,
+        "origin_country": [
+          "JP"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/6SyHoFNHQWCLIQEc41uflHsaGwE.jpg",
+        "id": 202411,
+        "name": "Monarch: Legacy of Monsters",
+        "original_language": "en",
+        "original_name": "Monarch: Legacy of Monsters",
+        "overview": "After surviving Godzilla's attack on San Francisco, Cate is shaken yet again by a shocking secret. Amid monstrous threats, she embarks on a globetrotting adventure to learn the truth about her family—and the mysterious organization known as Monarch.",
+        "poster_path": "/uwrQHMnXD2DA1rvaMZk4pavZ3CY.jpg",
+        "media_type": "tv",
+        "genre_ids": [
+          18,
+          10765,
+          10759
+        ],
+        "popularity": 1234.061,
+        "first_air_date": "2023-11-16",
+        "vote_average": 8.283,
+        "vote_count": 173,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/a6ptrTUH1c5OdWanjyYtAkOuYD0.jpg",
+        "id": 37854,
+        "name": "One Piece",
+        "original_language": "ja",
+        "original_name": "ワンピース",
+        "overview": "Years ago, the fearsome Pirate King, Gol D. Roger was executed leaving a huge pile of treasure and the famous \"One Piece\" behind. Whoever claims the \"One Piece\" will be named the new King of the Pirates.\n\nMonkey D. Luffy, a boy who consumed a \"Devil Fruit,\" decides to follow in the footsteps of his idol, the pirate Shanks, and find the One Piece. It helps, of course, that his body has the properties of rubber and that he's surrounded by a bevy of skilled fighters and thieves to help him along the way.\n\nLuffy will do anything to get the One Piece and become King of the Pirates!",
+        "poster_path": "/e3NBGiAifW9Xt8xD5tpARskjccO.jpg",
+        "media_type": "tv",
+        "genre_ids": [
+          10759,
+          35,
+          16
+        ],
+        "popularity": 116.906,
+        "first_air_date": "1999-10-20",
+        "vote_average": 8.7,
+        "vote_count": 4183,
+        "origin_country": [
+          "JP"
+        ]
+      }
+    ],
+    "total_pages": 1000,
+    "total_results": 20000
+  }

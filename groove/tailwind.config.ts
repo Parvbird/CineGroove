@@ -13,6 +13,13 @@ const config: Config = {
         'gradient-conic':
           'conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))',
       },
+      fontFamily: {
+        hubballi: ["hubballi", "sans-serif"],
+        nunito: ["Nunito", "sans-serif"],
+        quicksand: ["Quicksand", "sans-serif"],
+        sans: ["Nunito Sans","sans-serif"],
+        varela: ["Varela Round","sans-serif"],
+      },
     },
   },
   plugins: [],

@@ -1,5 +1,36 @@
-import NextAuth from "next-auth";
+import NextAuth from "next-auth/next";
+import CredentialsProvider from "next-auth/providers/credentials";
+import {compare} from "bcrypt"
+import { sql } from "@vercel/postgres";
 
-const handler = NextAuth()
+const handler = NextAuth({
+    session: {
+        strategy: "jwt"
+    },
+  providers: [
+    CredentialsProvider({
+      name: "Credentials",
+      credentials: {
+        email: {},
+        password: {},
+      },
+      async authorize(credentials, req) {
+        // database data collection
+        const response = await sql `
+            SELECT * FROM users WHERE email=${credentials?.email}`;
+        const user = response.rows[0];
+        const passwordCorrect = await compare(credentials?.password || '', user.password)
 
-export {handler as GET, handler as POST}
+        if (passwordCorrect) {
+            return {
+                id: user.id,
+                email: user.email,
+            };
+        }
+        return null;
+      },
+    }),
+  ],
+});
+
+export {handler as GET , handler as POST};
